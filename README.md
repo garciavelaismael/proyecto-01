@@ -1,6 +1,6 @@
-# PROYECTO02 
+# PROYECTO-01
 
-· Instalación de nodejs y typescript
+· Instalación de nodejs, npm y typescript
 · Inicialización de un proyecto TS.
 
 ## SRC ✏️
