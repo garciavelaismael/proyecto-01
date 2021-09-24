@@ -19,5 +19,8 @@
     "url": "https://github.com/garciavelaismael/proyecto-02/issues"
   },
   "homepage": "https://github.com/garciavelaismael/proyecto-02#readme",
-  "description": ""
+  "description": "",
+  "devDependencies": {
+    "typescript": "^4.4.3"
+  }
 }
